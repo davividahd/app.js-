@@ -1,4 +1,4 @@
-import {View, StyleSheet,Text,TouchableOpacity,Image,ScrollView} from 'react-native'
+mport {View, StyleSheet,Text,TouchableOpacity,Image,ScrollView} from 'react-native'
  
 export default function App(){
   return(
@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
     boxShadow :' 20px 20px 10px 10px rgba(0, 0, 0, 0.2) '
   },
   botao:{
-    width:'100%',
+    width:'10%',
     height:30,
     backgroundColor:"white",
     borderRadius:5,
@@ -84,4 +84,3 @@ const styles = StyleSheet.create({
  }
  
 })
-
