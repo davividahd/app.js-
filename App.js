@@ -1,4 +1,4 @@
-mport {View, StyleSheet,Text,TouchableOpacity,Image,ScrollView} from 'react-native'
+import {View, StyleSheet,Text,TouchableOpacity,Image,ScrollView} from 'react-native'
  
 export default function App(){
   return(
